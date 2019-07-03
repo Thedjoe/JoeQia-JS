@@ -39,7 +39,6 @@
 
 -type !key for the keyword
 
-
 How to activate AutoLike feature ?
 
 1. Goto src/bot.js
